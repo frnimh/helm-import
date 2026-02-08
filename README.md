@@ -15,7 +15,7 @@ A Helm plugin to import existing Kubernetes resources so they can be managed by 
 ## Install
 
 ```sh
-helm plugin install https://github.com/jzbruno/helm-import/
+helm plugin install https://github.com/frnimh/helm-import
 ```
 
 ## Usage
